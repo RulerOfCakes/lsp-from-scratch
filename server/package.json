@@ -1,15 +1,15 @@
 {
-  "name": "REPLACE_ME",
-  "description": "REPLACE_ME",
-  "version": "1.0.0",
-  "author": "REPLACE_ME",
+  "name": "lsp-from-scratch",
+  "description": "lsp-from-scratch",
+  "version": "0.0.1",
+  "author": "RulerOfCakes",
   "license": "MIT",
   "engines": {
     "node": "*"
   },
   "repository": {
     "type": "git",
-    "url": "REPLACE_ME"
+    "url": "https://github.com/RulerOfCakes/lsp-from-scratch"
   },
   "dependencies": {
   }

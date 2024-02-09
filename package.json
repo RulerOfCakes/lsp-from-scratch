@@ -1,10 +1,10 @@
 {
-  "name": "REPLACE_ME",
-  "description": "REPLACE_ME",
-  "author": "REPLACE_ME",
+  "name": "lsp-from-scratch",
+  "description": "lsp-from-scratch",
+  "author": "RulerOfCakes",
   "license": "MIT",
   "version": "1.0.0",
-  "publisher": "REPLACE_ME",
+  "publisher": "RulerOfCakes",
   "categories": [],
   "engines": {
     "vscode": "^1.75.0"
